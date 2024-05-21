@@ -149,6 +149,7 @@ a.button{
     border-radius: 16px;
     padding: 10%;
     box-shadow: 0 0 20px #00000010;
+    width: 70%;
 }
 
 .strong{
